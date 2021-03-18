@@ -33,4 +33,7 @@ yarn-error.log*
 # vercel
 .vercel
 
-.env
+._env
+
+.serverless
+.serverless_nextjs
